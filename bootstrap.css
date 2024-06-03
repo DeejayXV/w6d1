@@ -1,0 +1,18 @@
+h2 {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.blue-column {
+  background-color: blue;
+  color: white;
+  padding: 1rem;
+  border: 1px solid black;
+}
+
+.yellow-column {
+  background-color: yellow;
+  color: black;
+  padding: 1rem;
+  border: 1px solid black;
+}
